@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
@@ -207,8 +207,7 @@ export default function Home() {
               company: "Tech Solutions Inc",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/7447126/pexels-photo-7447126.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "James Wilson",
-              content: "Elite Cuts consistently delivers exceptional service. The attention to detail and professionalism is unmatched."
+              imageAlt: "James Wilson"
             },
             {
               id: "2",
@@ -217,8 +216,7 @@ export default function Home() {
               company: "Creative Agency",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/4817148/pexels-photo-4817148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Michael Brown",
-              content: "The best barbershop experience I've ever had. The team really knows their craft and the atmosphere is perfect."
+              imageAlt: "Michael Brown"
             },
             {
               id: "3",
@@ -227,8 +225,7 @@ export default function Home() {
               company: "StartupXYZ",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/6616125/pexels-photo-6616125.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Robert Davis",
-              content: "Professional service and amazing results every time. I wouldn't trust my hair to anyone else."
+              imageAlt: "Robert Davis"
             },
             {
               id: "4",
@@ -237,8 +234,7 @@ export default function Home() {
               company: "Anderson & Associates",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/7519013/pexels-photo-7519013.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Thomas Anderson",
-              content: "Elite Cuts provides a premium experience that's worth every penny. Highly recommended for any gentleman."
+              imageAlt: "Thomas Anderson"
             },
             {
               id: "5",
@@ -247,8 +243,7 @@ export default function Home() {
               company: "City University",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/3779445/pexels-photo-3779445.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Kevin Miller",
-              content: "Great prices for students and the quality is always top-notch. The barbers really care about getting it right."
+              imageAlt: "Kevin Miller"
             }
           ]}
         />
